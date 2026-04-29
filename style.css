@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.kotak {
+  border: 2px solid black;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 25vh;
+  height: 25vh;
+  background-color: rgb(255, 255, 255);
+}
+.kotak button {
+  background-color: rgb(246, 244, 247);
+}
+.text {
+  background-color: rgb(239, 233, 233);
+  align-items: center;
+}
+.password {
+  background-color: rgb(238, 238, 242);
+}
